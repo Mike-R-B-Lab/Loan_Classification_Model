@@ -25,7 +25,7 @@ We found that the key features that determine whether a person is likely to defa
 
 The most effective model overall was the Tuned Random Forest while using an 80-20 split for the training and testing data.
 
-The steps taken to arrive to these findings can be found in the Google Colab Notebook.
+The code used to arrive to these findings can be found in the Google Colab Notebook.
 
 
 
