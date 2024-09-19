@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-The consumer credit department of a bank contacted us (hypothetically) to simplify their decision-making process by implementing a machine learning model capable of predicting loan defaults using 13 features for 5960 borrowers.
+The consumer credit department of a bank contacted us (hypothetically) to simplify their decision-making process by implementing a machine learning model capable of predicting loan defaults using 13 features for 5960 borrowers. Prior to our arrival, they had a 20% default rate on their loans.
 
 I proceeded by using different analytical techniques to visualize and examine the provided data.
 
@@ -12,3 +12,5 @@ We found that the key features that determine whether a person is likely to defa
 The most effective model overall was the Tuned Random Forest while using an 80-20 split for the training and testing data.
 
 The steps taken to arrive to these findings can be found in the Google Colab Notebook.
+
+
